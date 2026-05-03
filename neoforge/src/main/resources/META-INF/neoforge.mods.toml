@@ -1,0 +1,39 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "GNU GPL 3.0"
+
+[[mods]]
+modId = "reactions"
+version = "${version}"
+displayName = "Reactions"
+authors = "Tochuuu"
+description = '''
+
+'''
+#logoFile = ""
+displayTest = "IGNORE_ALL_VERSION"
+
+[[dependencies.reactions]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.reactions]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.11,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.reactions]]
+modId = "architectury"
+type = "required"
+versionRange = "[19.0.1,)"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[mixins]]
+config = "reactions.mixins.json"

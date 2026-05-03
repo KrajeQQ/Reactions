@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/reactions.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/reactions.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/reactions.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/reactions.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/reactions.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/reactions.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/reactions.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/reactions.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/reactions.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/reactions.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/reactions.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/reactions.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/reactions.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/reactions.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>

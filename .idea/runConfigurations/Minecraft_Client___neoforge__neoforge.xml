@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" factoryName="Application" name="Minecraft Client (:neoforge)" type="Application">
+    <option name="MAIN_CLASS_NAME" value="dev.architectury.transformer.TransformerRuntime"/>
+    <module name="reactions.neoforge.main"/>
+    <option name="PROGRAM_PARAMETERS" value=""/>
+    <option name="VM_PARAMETERS" value="-Dfabric.dli.config=C:\Users\antek\Documents\Projekty\MC@@0020Mods\Reactions\untitled\neoforge\.gradle\loom-cache\launch.cfg -Dfabric.dli.env=client --add-opens java.base/java.lang.invoke=ALL-UNNAMED --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dfabric.dli.main=net.neoforged.fml.startup.Client &quot;-Darchitectury.main.class=C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\neoforge\.gradle\architectury\.main_class&quot; &quot;-Darchitectury.runtime.transformer=C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\neoforge\.gradle\architectury\.transforms&quot; &quot;-Darchitectury.properties=C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\neoforge\.gradle\architectury\.properties&quot; -Djdk.attach.allowAttachSelf=true &quot;-javaagent:C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\.gradle\architectury\architectury-transformer-agent.jar&quot;"/>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neoforge/run/"/>
+    <method v="2">
+      <option enabled="true" name="Make"/>
+    </method>
+    <envs>
+      <env name="MOD_CLASSES" value="main%%C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\neoforge\build\resources\main;main%%C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\neoforge\build\classes\java\main;main%%C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\out\production\reactions.neoforge.main;main%%C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\neoforge\out\production\classes;main%%C:\Users\antek\Documents\Projekty\MC Mods\Reactions\untitled\neoforge\out\production\resources"/>
+    </envs>
+    <shortenClasspath name="ARGS_FILE"/>
+  <classpathModifications/></configuration>
+</component>
