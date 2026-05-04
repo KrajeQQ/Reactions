@@ -7,8 +7,10 @@ Reactions is a simple client-side mod that brings player skins to life with cust
 ## ✨ Features
 - **Blinking:** Animated eyelid movement.
 <img width="426" height="240" alt="Blinking_2" src="https://github.com/user-attachments/assets/23c341d0-d643-4a8a-8c73-0af5344d7982" />
+
 - **Using Spyglass:** Characters close one eye realistically when aiming.
 <img width="426" height="240" alt="using_spyglass" src="https://github.com/user-attachments/assets/7283bf42-385b-4d43-80d1-65e9e4b6f506" />
+
 - **Custom Configuration:** Adjustable eye size.
 
 ## 🚀 Roadmap (Upcoming)
