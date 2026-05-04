@@ -12,6 +12,8 @@ Reactions is a simple client-side mod that brings player skins to life with cust
 <img width="426" height="240" alt="using_spyglass" src="https://github.com/user-attachments/assets/7283bf42-385b-4d43-80d1-65e9e4b6f506" />
 
 - **Custom Configuration:** Adjustable eye size.
+<img width="865" height="548" alt="image" src="https://github.com/user-attachments/assets/6534fedf-5832-4744-a9c8-834bf47dd2e8" />
+
 
 ## 🚀 Roadmap (Upcoming)
 - Fix major bugs and visual inconsistencies.
